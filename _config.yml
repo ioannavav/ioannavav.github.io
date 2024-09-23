@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "ioannavav.JPG"
+  name             : "Ioanna Vavelidou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Stanford"
+  bio              : "PhD Student"
+  location         : "Office: 466 Gates Computer Science"
   employer         : "Stanford University"
   uri              : # URL
   email            : "vavel@stanford.edu" 
