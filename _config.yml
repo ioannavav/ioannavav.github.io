@@ -347,14 +347,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-body {
-  font-family: "Open Sans", sans-serif; /* or "Lora", serif */
-  font-size: 16px; /* Adjust this value for smaller size */
-}
-
-h1, h2, h3, h4 {
-  font-family: "Lora", serif; /* A more professional font for headings */
-  font-weight: bold;
-}
