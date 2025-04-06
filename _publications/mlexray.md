@@ -8,6 +8,6 @@ date: 2022/4/22
 venue: 'MLSys'
 slidesurl: 
 paperurl: 'https://proceedings.mlsys.org/paper_files/paper/2022/hash/c04f25be56ab86371563568dce31808f-Abstract.html'
-citation: 
+citation: 'Qiu, Hang, Ioanna Vavelidou, Jian Li, Evgenya Pergament, Pete Warden, Sandeep Chinchali, Zain Asgar, and Sachin Katti. "ML-EXray: Visibility into ML deployment on the edge." Proceedings of Machine Learning and Systems 4 (2022): 337-351.'
 ---
 
