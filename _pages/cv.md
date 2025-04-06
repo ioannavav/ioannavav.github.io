@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can view my CV [here](https://ioannavav.github.io/Vavelidou-CV.pdf).
 
 
