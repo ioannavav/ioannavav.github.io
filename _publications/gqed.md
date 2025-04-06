@@ -2,7 +2,7 @@
 title: "G-QED: Generalized QED pre-silicon verification beyond non-interfering hardware accelerators"
 collection: publications
 category: 
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/gqed
 excerpt:
 date: 2023-7-9
 venue: 'DAC'
