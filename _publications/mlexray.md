@@ -1,7 +1,7 @@
 ---
 title: "ML-EXray: Visibility into ML deployment on the edge"
 collection: publications
-category: manuscripts
+category: 
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'ML-EXray provides visibility into layer-level details of the ML execution, helps developers analyze and debug cloud-to-edge deployment issues.'
 date: 2022/4/22
